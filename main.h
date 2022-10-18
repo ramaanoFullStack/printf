@@ -23,5 +23,7 @@ int _putchar(char c);
 int print_c(va_list array_list);
 int (*get_func(char s))(va_list array_list);
 int print_s(va_list array_list);
+int print_d(va_list array_list);
+int print_i(va_list array_numlist);
 
 #endif
