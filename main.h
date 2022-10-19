@@ -25,5 +25,6 @@ int (*get_func(char s))(va_list array_list);
 int print_s(va_list array_list);
 int print_d(va_list array_list);
 int print_i(va_list array_numlist);
+int print_b(va_list binary_list);
 
 #endif
