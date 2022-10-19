@@ -26,5 +26,9 @@ int print_s(va_list array_list);
 int print_d(va_list array_list);
 int print_i(va_list array_numlist);
 int print_b(va_list binary_list);
+int print_u(va_list array_list);
+int print_o(va_list array_list);
+int print_x(va_list array_list);
+int print_X(va_list array_list);
 
 #endif
